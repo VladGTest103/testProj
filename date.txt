@@ -1,0 +1,4 @@
+class Date{
+	public:
+		void show();
+};
