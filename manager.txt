@@ -1,4 +1,5 @@
-class Manager{
+class Manager: public Employee
+{
 	public:
 		void show();
 }
